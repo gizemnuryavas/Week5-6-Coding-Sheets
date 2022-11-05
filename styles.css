@@ -84,8 +84,12 @@ iframe {
 .section-four {
     background-color: darkslateblue;
     height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
     
-}
+
 
 /* section 5 media items */
 
@@ -154,17 +158,3 @@ flex: 1 1 auto;
 
 }
 
-
-.section-three {
-    height: 700px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    }
-
-    .section-four {
-        height: 700px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        }
