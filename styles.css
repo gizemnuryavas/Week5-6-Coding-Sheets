@@ -168,7 +168,7 @@ button:hower {
  color: white;
  }
 
- button:active {
+button:active {
 background-color: #3e8e41;
 box-shadow: 0 5 px darkred;
 transform: translateY(4px);
