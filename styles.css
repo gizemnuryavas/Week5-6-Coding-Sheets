@@ -161,5 +161,15 @@ font-size: large;
 padding: 10px;
 margin: 2px;
 transition-duration: .4s;
+}
 
+button:hower {
+ background-color: limegreen;
+ color: white;
+ }
+
+ button:active {
+background-color: #3e8e41;
+box-shadow: 0 5 px darkred;
+transform: translateY(4px);
  }
