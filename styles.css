@@ -235,7 +235,7 @@ width: 70%;
 }
 
 .slides::-webkit-scrollbar-thumb {
-    background: black;
+    background: #F29F05;
     border-radius: 10px;
 }
 
