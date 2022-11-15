@@ -311,14 +311,6 @@ width: 70%;
     }
 }
 
-  body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: linear-gradient(to bottom, #74ABE2, #5563DE);
-    font-family: 'Ropa Sans', sans-serif;
-  }
-  
 .slide-image {
 border-radius: 10px;
 }
